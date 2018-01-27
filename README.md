@@ -8,19 +8,19 @@ of their technical screening process.
 
 ### Build
 
-'''
+```
 $ make
-'''
+```
 
 ### Run
 
-'''
+```
 $ ./main
-'''
+```
 
 ### Examples
 
-''' C++
+``` C++
 int main() {
     std::vector<std::vector<double>>  m1 = {{1,2,3},
         {4,5,6}};
@@ -50,4 +50,4 @@ int main() {
     // 2 5 
     // 3 6
 }
-'''
+```
