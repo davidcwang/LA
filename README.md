@@ -1,7 +1,7 @@
 # About
 
 A Linear Algebra Library that handles multiplication and transpose operations
-of matricies (the two most important function of course :) ).
+of matricies (the two most important functions of course :) ).
 
 This module was requested by Brain Corp https://www.braincorp.com/ as a part
 of their technical screening process.
